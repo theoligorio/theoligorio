@@ -1,6 +1,6 @@
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=theoligorio&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=161B22" alt="Grafico de Postagens"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=161B22&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=theoligorio&title_color=1572B6&bg_color=00000000&text_color=13629C&count_private=true&icon_color=ffffff&border_color=161B22" alt="Grafico de Postagens"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=13629C&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=161B22&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
     <hr>
 <h3>📥 IDES em uso :</h3>
 <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
