@@ -1,20 +1,22 @@
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=theoligorio&title_color=1572B6&bg_color=00000000&text_color=13629C&count_private=true&icon_color=ffffff&border_color=161B22" alt="Grafico de Postagens"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=13629C&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=161B22&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
-    <hr>
-<h3>📥 IDES em uso :</h3>
-<a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</a>
-    <hr>
-<h3>Conhecimentos :</h3>
-<a href="https://pt.wikipedia.org/wiki/HTML5"> <img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://pt.wikipedia.org/wiki/CSS3"> <img alt="Css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://pt.wikipedia.org/wiki/JavaScript"> <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-<a href="https://pt.wikipedia.org/wiki/React_(JavaScript)"> <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-    <hr>
-<h3>Redes Sociais :</h3>    
-<a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-<a href="https://www.instagram.com/theocligorio/"> <img alt="Instagram" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/a>
-<a href="https://twitter.com/theocligorio"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-<a href="https://www.facebook.com/theo.ligorio/"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  
+<h1> Olá, Eu sou o Théo Ligório 🤙 </h1> 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theocligorio/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/theo.ligorio/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theocligorio)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/youngtpump)
+
+
+![Théo GitHub stats](https://github-readme-stats.vercel.app/api?username=theoligorio&show_icons=true&theme=radical)
+
+### Tecnologias que eu utilizo
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
