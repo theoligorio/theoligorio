@@ -6,6 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/youngtpump)
 
 ![Théo GitHub stats](https://github-readme-stats.vercel.app/api?username=theoligorio&show_icons=true&theme=radical)
+<img margin-right="70px" height="200px" width="200px" src="https://cdn.discordapp.com/attachments/894723534650220567/964693716898021396/IMG_0650.png"/>
 
 <h1 align="center"> Tecnologias que eu utilizo </h1>
 
