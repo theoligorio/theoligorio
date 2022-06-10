@@ -10,7 +10,7 @@
 
 <h1 align="center"> Tecnologias que eu utilizo </h1>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block" margin-left= "400px"><br/>
     <a href="https://pt.wikipedia.org/wiki/HTML5"><img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"></a><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
